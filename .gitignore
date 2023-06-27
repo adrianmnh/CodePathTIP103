@@ -1,0 +1,25 @@
+# IntelliJ IDEA files
+.idea/
+
+# Compiled output
+out/
+
+# Project-specific files
+*.iml
+
+# Dependencies
+/lib/
+
+# Build output
+/build/
+
+# Temporary files
+*.tmp
+
+# Logs
+*.log
+
+# IDE-specific files
+*.ipr
+*.iws
+*.iml
